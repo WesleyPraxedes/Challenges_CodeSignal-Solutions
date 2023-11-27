@@ -1,6 +1,6 @@
 package codesignal.cap2_edge_of_the_ocean;
 
-public class shapeArea {
+public class ShapeArea {
 
 	public static void main(String[] args) {
 
