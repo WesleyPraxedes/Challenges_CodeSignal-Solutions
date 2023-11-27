@@ -1,6 +1,6 @@
 package codesignal.cap2_edge_of_the_ocean;
 
-public class matrixElementsSum {
+public class MatrixElementsSum {
 
 	public static void main(String[] args) {
         // Testes
